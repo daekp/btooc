@@ -1,6 +1,6 @@
 # btooc
 
-btooc - by the order of arrival.  
+btooc - by the order of comment.  
 I made this code at someone's request.  
 Use this tool if you need to comment quickly on Naver Cafe.  
 
